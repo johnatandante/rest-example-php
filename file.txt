@@ -1,0 +1,1 @@
+a:3:{i:1;s:17:"Telefono di prova";i:2;s:8:"iPhone X";i:4;s:14:"Moto Razr plus";}
